@@ -1,0 +1,2 @@
+
+create table account_details(acc_holder_name varchar(25),age integer(3),date_of_birth varchar(15),gender varchar(15),e_mail varchar(30),qualification varchar(20),user_name varchar(25),primary key(user_name));
